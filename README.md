@@ -12,4 +12,6 @@
 ###### 1.count how many files in current dir: ls -l | grep -v ^l | wc -l
 ###### 2.check if a certain file exist in dir: (ls x.txt && echo yes) || echo no
 ###### 3.check file size: 
+1. check dir size: du -sh [path to dir]
+2. check file size: du -h [path to file]
 ### Part 4: vim for editting codes:
