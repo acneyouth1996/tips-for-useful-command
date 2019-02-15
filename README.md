@@ -1,4 +1,4 @@
-# tips-for-useful-command
+# Tips for useful command
 ### Part 1: ssh connection
 1. connect using username and password authentication: ssh username@clould_ip
 2. connect using key files:
