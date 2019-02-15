@@ -8,6 +8,8 @@
 ### Part 2: transfer file
 1. upload files from local machine to cloud machine: **scp [local dir] username@cloud_ip:[cloud dir]**
 2. download files from cloud machine to local machine **scp username@cloud_ip:[cloud dir] [local_dir]**
+3. upload for aws: **scp -i [path to keyfile] [local dir] username@cloud_ip:[cloud dir]**
+4. download for aws: **scp -i [path to keyfile]username@cloud_ip:[cloud dir] [local_dir]**
 ### Part 3: check files
 1. count how many files in current dir: **ls -l | grep -v ^l | wc -l**
 2. check if a certain file exist in dir: **(ls x.txt && echo yes) || echo no**
