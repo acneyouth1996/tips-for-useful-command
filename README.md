@@ -17,5 +17,5 @@
    1. check dir size: **du -sh [path to dir]**
    2. check file size: **du -h [path to file]**
 ### Part 4: vim for editting codes:
-1.  undo: ** u **
+1.  undo: **u**
 ### Part 5: using git
