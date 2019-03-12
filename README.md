@@ -19,3 +19,5 @@
 ### Part 4: vim for editting codes:
 1.  undo: **u**
 ### Part 5: using git
+### Part 6: tensorboard 
+1.  tensorboard --logdir='./logs' --port=6006
