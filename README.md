@@ -20,4 +20,4 @@
 1.  undo: **u**
 ### Part 5: using git
 ### Part 6: tensorboard 
-1.  tensorboard --logdir='./logs' --port=6006
+1.  **tensorboard --logdir='./logs' --port=6006**
