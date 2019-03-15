@@ -20,5 +20,6 @@
 1.  undo: **u**
 ### Part 5: using git
 1. add all: git add *
+2. undo add all: **git reset**
 ### Part 6: tensorboard 
 1.  **tensorboard --logdir='./logs' --port=6006**
